@@ -11,9 +11,7 @@
 
 <body>
     <a href="/">home</a>
-    <a href="/blog">blog</a>
-    <a href="/about">about</a>
-    <a href="/contact">contact</a>
+    <a href="/">about</a>
     <h1>halaman about</h1>
     <h1>halaman about foto</h1>
     <h3>dear: {{ $nama }}</h3>
